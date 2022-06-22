@@ -1,0 +1,3 @@
+import vlc
+p = vlc.MediaPlayer("https://github.com/thatcraniumguy/Songs/blob/master/NBS%20files/Ghostbusters.nbs?raw=true")
+p.play()
